@@ -5,7 +5,7 @@ import java.nio.file.Paths;
 /**
  * Created by doug on 7/27/16.
  */
-public class main {
+public class Main {
     public static void main(String[] args) throws IOException {
         System.out.println("Hello Iron Yard Student!");
 
